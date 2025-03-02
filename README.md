@@ -89,41 +89,33 @@
 
 <table>
   <tr>
-    <td width="200"><b>🎓 아주대학교</b></td>
+    <th width="50%">학력 및 활동</th>
+    <th width="50%">상세 정보</th>
+  </tr>
+  <tr>
+    <td><b>아주대학교</b></td>
     <td>디지털미디어학과/인공지능융합학과(복수전공) | 학사 (2021.03~)</td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="200"><b>🤖 KT 에이블스쿨</b></td>
-    <td>AI 개발 핵심 기술 습득 (2024.09 ~ 2025.02)</td>
+    <td><b>인공지능융합학과 소학회 NUAVO</b></td>
+    <td>머신러닝 및 딥러닝 스터디 (2023.09 ~ 2024.12)</td>
   </tr>
   <tr>
-    <td></td>
-    <td><i>Python, 데이터 분석, 머신러닝, 딥러닝, 클라우드 컴퓨팅(Azure), 쿠버네티스 학습</i></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="200"><b>👨‍💻 학회 및 활동</b></td>
-    <td>인공지능융합학과 소학회 NUAVO | 머신러닝 및 딥러닝 스터디 (2023.09 ~ 2024.12)</td>
+    <td><b>9oormthonUNVI 2기</b></td>
+    <td>디자인파트/벚꽃톤(1박 2일 해커톤) 참가 (2024.03~2024.08)</td>
   </tr>
   <tr>
-    <td></td>
-    <td>9oormthonUNVI 2기 | 디자인파트/벚꽃톤(1박 2일 해커톤) 참가 (2024.03~2024.08)</td>
+    <td><b>Prography 6기</b></td>
+    <td>마케팅파트/Vook-가장 간편한 용어집 (2024.03~2024.09)</td>
   </tr>
   <tr>
-    <td></td>
-    <td>Prography 6기 | 마케팅파트/Vook-가장 간편한 용어집 (2024.03~2024.09)</td>
+    <td><b>KT 에이블스쿨</b></td>
+    <td>AI 개발 핵심 기술 습득 (2024.09 ~ 2025.02)<br>
+    <i>Python, 데이터 분석, 머신러닝, 딥러닝, 클라우드 컴퓨팅(Azure), 쿠버네티스 학습</i></td>
   </tr>
-</table>
-
-<table>
   <tr>
-    <td width="200"><b>🏅 자격증</b></td>
-    <td>AICE Associate | AI 자격증 취득 (2025.02)</td>
+    <td><b>AICE Associate</b></td>
+    <td>AI 자격증 취득 (2025.02)</td>
   </tr>
 </table>
 
