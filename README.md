@@ -14,7 +14,7 @@
 
 ## 🔧 Tech Stack
 
-### AI 및 데이터 분석 기술
+### Core Skills
 <table align="center">
   <tr>
     <td align="center"><b>AI & ML</b></td>
@@ -41,30 +41,25 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-이런거도 할 줄 알아요!
-<table align="center">
-  <tr>
-    <td align="center"><b>Programming</b></td>
+    <td align="center"><b>Programming & Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Web Development</b></td>
-    <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+### Additional Skills
+<table align="center">
   <tr>
     <td align="center"><b>Design Tools</b></td>
     <td>
@@ -76,15 +71,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Game Development</b></td>
+    <td align="center"><b>Other Skills</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     </td>
   </tr>
 </table>
