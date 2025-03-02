@@ -87,31 +87,23 @@
 
 ## 📚 Education & Certification
 
-<table>
-  <tr>
-    <td><b>🎓 학위</b></td>
-    <td>아주대학교 디지털미디어학과/인공지능융합학과(복수전공) | 학사 (2021.03~)</td>
-  </tr>
-  <tr>
-    <td><b>🤖 AI 교육</b></td>
-    <td>
-      • KT 에이블스쿨 | AI 개발 핵심 기술 습득 (2024.09 ~ 2025.02)<br>
-      <i>Python, 데이터 분석, 머신러닝, 딥러닝, 클라우드 컴퓨팅(Azure), 쿠버네티스 학습</i><br>
-      • 인공지능융합학과 소학회 NUAVO | 머신러닝 및 딥러닝 스터디 (2023.09 ~ 2024.12)
-    </td>
-  </tr>
-  <tr>
-    <td><b>🧩 활동</b></td>
-    <td>
-      • 9oormthonUNVI 2기 | 디자인파트/벚꽃톤(1박 2일 해커톤) 참가 (2024.03~2024.08)<br>
-      • Prography 6기 | 마케팅파트/Vook-가장 간편한 용어집 (2024.03~2024.09)
-    </td>
-  </tr>
-  <tr>
-    <td><b>🏅 자격증</b></td>
-    <td>AICE Associate | AI 자격증 취득 (2025.02)</td>
-  </tr>
-</table>
+<div align="center">
+
+**🎓 학위**  
+[![Ajou University](https://img.shields.io/badge/아주대학교-디지털미디어학과/인공지능융합학과-blue?style=for-the-badge)](https://www.ajou.ac.kr) 
+
+**🤖 AI 교육**  
+[![KT AIVLE School](https://img.shields.io/badge/KT_에이블스쿨-AI_개발_핵심_기술_습득_(2024.09~2025.02)-red?style=for-the-badge)](https://aivle.kt.co.kr/)
+[![NUAVO](https://img.shields.io/badge/인공지능융합학과_소학회_NUAVO-머신러닝_및_딥러닝_스터디_(2023.09~2024.12)-orange?style=for-the-badge)](https://github.com/nuavo)
+
+**🧩 활동**  
+[![9oormthonUNVI](https://img.shields.io/badge/9oormthonUNVI_2기-디자인파트/벚꽃톤_(2024.03~2024.08)-green?style=for-the-badge)](https://9oormthon.goorm.io/)
+[![Prography](https://img.shields.io/badge/Prography_6기-마케팅파트/Vook_(2024.03~2024.09)-teal?style=for-the-badge)](https://prography.org/)
+
+**🏅 자격증**  
+[![AICE](https://img.shields.io/badge/AICE_Associate-AI_자격증_취득_(2025.02)-yellow?style=for-the-badge)](https://aice.institute/)
+
+</div>
 
 ## 🏆 Awards
 
