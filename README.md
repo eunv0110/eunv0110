@@ -7,7 +7,7 @@
   
   <p>
     <a href="mailto:pintotoro123@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/eunv0110"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
     <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
   </p>
 </div>
@@ -126,8 +126,8 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=eunv0110&color=blueviolet&style=flat-square&label=Profile+Views"/>
   <p>Thanks for visiting my GitHub profile! If you're interested in data analysis, machine learning, or AI research, I'd love to connect and collaborate.</p>
   
-  ⭐️ From [황은비](https://github.com/yourusername)
+  ⭐️ From [황은비](https://github.com/eunv0110)
 </div>
