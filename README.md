@@ -6,9 +6,9 @@
   </p>
   
   <p>
-    <a href="mailto:pintotoro123@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:pintotoro123@ajou.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
     <a href="https://github.com/eunv0110"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>
-    <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/%EC%9D%80%EB%B9%84-%ED%99%A9-769b67265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   </p>
 </div>
 
