@@ -127,10 +127,11 @@
     <th>대회/행사명</th>
     <th>수상 내역</th>
   </tr>
+  
   <tr>
     <td rowspan="5"><b>2024-2025</b></td>
     <td>KT AIVLE School AIVLE Big Project</td>
-    <td>최우수상 / <i>전체 2등</i> (2025)</td>
+    <td>최우수상 | 전체 2등 (2025)</td>
   </tr>
   <tr>
     <td>미디어컨텐츠(시제품) 경진대회</td>
@@ -142,11 +143,11 @@
   </tr>
   <tr>
     <td>생성 AI 활용 서비스 아이디어 경진대회</td>
-    <td>우수상 / <i>전체 2등</i> (2024.06)</td>
+    <td>우수상 | 전체 2등 (2024.06)</td>
   </tr>
   <tr>
     <td>AJOU SOFTCON</td>
-    <td>최우수상 / <i>전체 1등</i> (2024)</td>
+    <td>최우수상 | 전체 1등  (2024)</td>
   </tr>
   <tr>
     <td rowspan="4"><b>2023-2024</b></td>
