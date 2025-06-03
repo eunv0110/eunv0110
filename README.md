@@ -100,16 +100,6 @@
   - 부회장 역임
   - 학과 행사 기획 및 주최
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eunv0110&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eunv0110&layout=compact&theme=radical)
-
-</div>
-
 ## 🌱 Currently Learning
 
 - 멀티모달 AI 시스템 개발
