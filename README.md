@@ -68,6 +68,7 @@
 ### 주요 수상
 | 상격 | 대회명 | 날짜 | 내용 |
 |--------------|--------|------|------|
+| 🥇 **대상** | 여성가족부 공공데이터활용 공모전 | 2025.07 | RAG 및 메모리 기반 챗봇 구현 |
 | 🥇 **최우수상** | KT AIVLE School 빅프로젝트 | 2025.02 | 멀티모달 데이터 기반 설비 고장 예측 시스템 개발 (전체 2등) |
 | 🏅 **아차상** | AI 경기 아이디어 챌린지 공모전 | 2024.07 |  PromptTemplate 기반 소상공인 맞춤형 마케팅 서비스 기획 및 개발 |
 | 🥇 **최우수상** | 2024-1 AJOU SoftCon 미디어프로젝트 | 2024.06 | 앱 기획 및 UI 디자인 (1등/실제 구현중..) |
@@ -112,6 +113,6 @@
 
 <div align="center">
 
-**"Building Trustworthy AI Agents for a Better Future"** 🚀
+**"Building Trustworthy AI for a Better Future"** 🚀
 
 </div>
