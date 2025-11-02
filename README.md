@@ -4,8 +4,6 @@
 **아주대학교 디지털미디어학과** (2021.03 ~ 현재)
 - 복수전공: 인공지능융합학과
 
----
-
 ## 🛠️ 기술 스택
 
 ### Programming Languages
@@ -28,7 +26,6 @@
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
----
 
 ##  🔥 경험
 
@@ -41,13 +38,9 @@
 
 **SW 산학협력프로젝트 참여연구원** | 2022.09 ~ 12
 - 네트워크 시각화를 활용한 설명 가능한 추천 시스템 기획 및 개발 (참여협력산업체: 주식회사스템피)
-- 역할: 기획 및 데이터 전처리, 디자인
 
 ### 📚 교육
-**KT AIVLE School AI 개발자 교육 수료** | 2024.09 ~ 2025.02
-- AI·웹 기술 학습 및 8개 프로젝트 수행
-- 총 840시간 수료
-
+**KT AIVLE School AI 개발자 교육 수료(총 840시간)** | 2024.09 ~ 2025.02
 ---
 
 ## 🏆 수상 경력
@@ -69,7 +62,6 @@
 
 ## 📫 연락처
 - 📧 **Email**: pintotoro123@ajou.ac.kr
-- 💻 **GitHub**: [@eunv0110](https://github.com/eunv0110)
 - 📝 **Blog**: [eunbicom.tistory.com](https://eunbicom.tistory.com)
 
 ---
