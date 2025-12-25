@@ -64,10 +64,4 @@
 - 📧 **Email**: pintotoro123@ajou.ac.kr
 - 📝 **Blog**: [eunbicom.tistory.com](https://eunbicom.tistory.com)
 
----
 
-<div align="center">
-
-**"Building Trustworthy AI for a Better Future"** 🚀
-
-</div>
